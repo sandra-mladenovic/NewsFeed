@@ -1,0 +1,116 @@
+.tm-page-header{
+    padding: 2%;
+}
+.categories ul{
+    text-align: center;
+    margin-bottom: 8%;
+}
+.form-group{
+    padding: 1% 0%;
+}
+
+/* commnet */
+.date {
+    font-size: 11px
+}
+
+.comment-text {
+    font-size: 12px
+}
+
+.fs-12 {
+    font-size: 12px
+}
+
+.shadow-none {
+    box-shadow: none
+}
+
+.name {
+    color: #007bff
+}
+
+.cursor:hover {
+    color: blue
+}
+
+.cursor {
+    cursor: pointer
+}
+
+.textarea {
+    resize: none
+}
+
+.fa-facebook {
+    color: #3b5999
+}
+
+.fa-twitter {
+    color: #55acee
+}
+
+.fa-linkedin {
+    color: #0077B5
+}
+
+.fa-instagram {
+    color: #e4405f
+}
+
+.fa-dribbble {
+    color: #ea4c89
+}
+
+.fa-pinterest {
+    color: #bd081c
+}
+
+.fa {
+    cursor: pointer
+}
+/* end commnet */
+.Travel {
+    color: #39c0ed !important;
+}
+.Business{
+    color: #f93154 !important;
+}
+.Technology{
+    color: #ffa900 !important;
+}
+.Sport{
+    color: #00b74a !important;
+}
+.Science{
+    color: #FF5733 !important;
+}
+.Future{
+    color: #6E7174 !important;
+}
+.Entertainment{
+    color: #A733FF !important;
+}
+.posts{
+    position: relative;
+}
+.deleteIcon{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    padding-right: 5px;
+    color: #ff0000;
+}
+.deleteIconComment{
+    position: relative;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    padding-right: 5px;
+    color: #ff0000;
+}
+
+#insertPostForm{
+    display: none;
+}
